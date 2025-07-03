@@ -1,0 +1,6 @@
+[submodule "mera-terraform"]
+	path = mera-terraform
+	url = git@github.com:Kundan547/mera-terraform.git
+[submodule "Mern-Application"]
+	path = Mern-Application
+	url = git@github.com:Kundan547/Mern-Application.git
